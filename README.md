@@ -8,3 +8,4 @@ The following models were implemented for the project:
 
 The random forest classification model was proved to be the most efficient model among the two models implemented with an accuracy rate of 0.9468. 
 
+https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/3fc6a4053069c7442660efd30a55bbcffac346a9/ROC-AUC%20Curve.png

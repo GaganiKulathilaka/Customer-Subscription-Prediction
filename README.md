@@ -8,5 +8,5 @@ The following models were implemented for the project:
 
 The random forest classification model was proved to be the most efficient model among the two models implemented with an accuracy rate of 0.9468. 
 
-![ROC-AUC Curve]([[URL](https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/main/ROC-AUC%20Curve.png)](https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/main/ROC-AUC%20Curve.png?raw=true))
+![ROC-AUC Curve]([[[URL](https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/main/ROC-AUC%20Curve.png)](https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/main/ROC-AUC%20Curve.png?raw=true)](https://github.com/GaganiKulathilaka/Customer-Subscription-Prediction/blob/ce20afecf6a69a03fc9152e997d6ae015e265883/ROC-AUC%20Curve.png))
 
